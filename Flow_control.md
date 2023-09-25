@@ -1,3 +1,4 @@
+```
 import java.util.Scanner;
 
 public class SumEvenAndOddNumbers {
@@ -60,3 +61,4 @@ public class SumEvenAndOddNumbers {
         System.out.println("The sum of the odd numbers that are not divisible by 5 is: " + sumOfOddAndNotDivisibleBy5);
     }
 }
+```
